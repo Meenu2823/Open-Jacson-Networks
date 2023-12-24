@@ -7,7 +7,7 @@ To find (a) average number of materials in the system (b) average number of mate
 ## Software required :
 Visual components and Python
 
-## Theory
+## Theory :
 
 ![image](https://user-images.githubusercontent.com/103921593/203239736-7b81f599-71a8-4ae7-b63e-5d98acd9ea54.png)
 
@@ -17,7 +17,7 @@ Visual components and Python
 ![image](https://user-images.githubusercontent.com/103921593/203239789-bc870dce-6727-487b-a0e2-4fc3f5114889.png)
 
 
-## Experiment:
+## Experiment :
 ![image](https://github.com/SaravananPV3010/Open-Jacson-Networks/assets/139754526/9f8a8a8c-671d-494e-8fbb-ba9af28e2afc)
 
 ## Program :
